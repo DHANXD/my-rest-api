@@ -2,7 +2,7 @@ const fs = require('fs')
 
 global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://bbybot:rkRmimvvLHbXrEvw@databasebybot.8hyppfm.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
+global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@14" //isi apa aja bebas
 global.your_email = "dhanzzxmk@gmail.com" //email
 global.email_password = "danijr45" //application password email
 global.limitCount = 10000
